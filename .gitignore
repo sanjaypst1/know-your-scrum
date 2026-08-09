@@ -1,0 +1,6 @@
+﻿# Public site only — no source / question bank / build tooling
+.DS_Store
+Thumbs.db
+*.log
+questions-data.json
+scrum-simulator/
