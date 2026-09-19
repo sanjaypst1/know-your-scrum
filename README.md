@@ -4,7 +4,7 @@ Interactive Scrum practice simulator by **[Sanjay Singh](https://sanjaypst1.gith
 
 **Live test:** https://sanjaypst1.github.io/know-your-scrum/
 
-Prepare for **PSM I–style fundamentals** and **PSM II–style advanced application** with Guide-aligned scenarios, full rationales, and readiness analytics.
+**150+ questions** for **PSM I–style fundamentals** and **PSM II–style advanced application**, with Guide-aligned scenarios, full rationales, and readiness analytics.
 
 ## PSM II practice track
 
