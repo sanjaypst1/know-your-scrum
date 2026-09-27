@@ -1,32 +1,26 @@
 ﻿# Know Your Scrum
 
-Interactive Scrum practice simulator by **[Sanjay Singh](https://sanjaypst1.github.io/sanjay-training-profile/)**, Professional Scrum Trainer.
+Independent Scrum certification practice by **[Sanjay Singh](https://sanjaypst1.github.io/sanjay-training-profile/)**, Professional Scrum Trainer.
 
-**Live test:** https://sanjaypst1.github.io/know-your-scrum/
+**Live practice:** https://sanjaypst1.github.io/know-your-scrum/
 
-**150+ questions** for **PSM I–style fundamentals** and **PSM II–style advanced application**, with Guide-aligned scenarios, full rationales, and readiness analytics.
+Choose a path and practise:
 
-## PSM II practice track
+- **PSPO I** — Fundamental Product Ownership
+- **PSM I** — Scrum Master Fundamentals
+- **PSM II** — Advanced Scrum Master Application
+- **PSPO II** — Advanced Product Ownership
 
-Use **PSM II Mode** (30 questions · 90 minutes) for advanced scenarios across the focus areas listed on the official assessment page:
+Modes include Quick Practice, Focused Practice, a timed Mock Assessment, and Custom Practice. Questions are original and grounded in the 2020 Scrum Guide. They are not official Scrum.org assessment items.
 
-- Understanding and Applying the Scrum Framework
-- Developing People and Teams
-- Managing Products with Agility
-- Developing and Delivering Products Professionally
-- Evolving the Agile Organization
-
-Official assessment details: [Professional Scrum Master II Certification](https://www.scrum.org/assessments/professional-scrum-master-ii-certification) (Scrum.org).
-
-This public repository hosts **only the runnable practice test**. Supporting source files and the editable question bank are kept private.
+This public repository hosts **only the runnable practice application**. The editable question bank and build sources stay in a private repository.
 
 ## About the trainer
-
-Sanjay Singh — Transformation Leader, Enterprise Agile Coach, and authorized trainer (Scrum.org, Kanban University, SAFe, and more).
 
 → [Trainer profile](https://sanjaypst1.github.io/sanjay-training-profile/)
 
 ## Credits
 
-Based on the [Scrum Guide (2020)](https://scrumguides.org) by Ken Schwaber & Jeff Sutherland.  
-Educational practice tool — not affiliated with Scrum.org.
+Based on the [Scrum Guide (2020)](https://scrumguides.org) by Ken Schwaber and Jeff Sutherland.
+
+This is an independent practice application and is not affiliated with, endorsed by or an official assessment of Scrum.org. Scrum.org, Professional Scrum, PSPO and PSM are trademarks of Scrum.org.
