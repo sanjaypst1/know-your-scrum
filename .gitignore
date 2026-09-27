@@ -4,3 +4,12 @@ Thumbs.db
 *.log
 questions-data.json
 scrum-simulator/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
